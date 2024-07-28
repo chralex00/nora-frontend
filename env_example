@@ -1,0 +1,15 @@
+# for backend
+VITE_APIS_BASE_URL=http://localhost:3001/api
+
+# for app version
+VITE_SHOWN_VERSION=v0.0.1-rc.1
+
+# for openai
+VITE_OPEN_AI_API_KEY=tobemodified
+VITE_OPEN_AI_SPEECH_MODEL=tts-1-hd
+VITE_OPEN_AI_SPEECH_VOICE=onyx
+
+# for frontend
+DOCKER_CONTAINER_NAME=nora-frontend
+DOCKER_IMAGE_NAME=nora-frontend
+DOCKER_PORT=8081
